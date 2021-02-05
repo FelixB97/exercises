@@ -15,6 +15,6 @@ const object = {
 
 const nothing = null;
 
-// let undefined;
+let undf;
 
-// const symbol = symbol("symbol");
+const symbol = Symbol("symbol");
