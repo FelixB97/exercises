@@ -10,7 +10,7 @@ const name = "Felix";
 
 const object = {
     cats: 99,
-    lambo: 999
+    lambo: 999git 
 };
 
 const nothing = null;
@@ -18,3 +18,5 @@ const nothing = null;
 let undf;
 
 const symbol = Symbol("symbol");
+
+//simple change
