@@ -10,7 +10,7 @@ const name = "Felix";
 
 const object = {
     cats: 99,
-    lambo: 999git 
+    lambo: 999
 };
 
 const nothing = null;
